@@ -1,0 +1,31 @@
+Menu Desktop alinhado a Direita.
+Fazer os 3 quadrados na Index para os planos.
+Banner rotativo no rodapé.
+Fazer página de parceiros, com logo a esquerda e descrição a direita.
+Fazer parallax no banner da index.
+FAzer o header diminuir nem um determinado target.
+
+
+
+
+
+
+
+
+
+Meio
+Criar animações em íncones e divs.
+	
+
+
+
+
+
+
+
+
+Final do projeto:
+
+
+Mudar cores e kits das rolagens do navegador do chrome, e definir com para url do mobile.
+PHP mail e formulário.
